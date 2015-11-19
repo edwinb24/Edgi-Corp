@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+
+
+#mainImageOutline {
+	margin: 0 auto;
+	padding: 0;
+	background-color: #eee;
+	border-top: solid 1px #999;
+	border-right: solid 1px #404040;
+	border-bottom: solid 1px #333;
+	border-left: solid 1px #404040;
+	padding: 1em; 
+	overflow: hidden; 
+}
+
+#picture img {	border: 1px solid #999; }
+.selectedThumbnail {  border: solid 2px #fc0 !important; }
+.inFocus {  border: solid 1px #fc0 !important; }

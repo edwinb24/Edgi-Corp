@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AlbumBook ver='1.6' title='' description='' firstAlbum='0' width='960' height='270' showThumbnails='true' thumbWidth='80' thumbHeight='60' autoStart='true' allowClick='false' clickAction='_blank' playerName='Player - Black (Flash Plugin not required)'>
+	<Album title='slideshow' description='' path='slideshow' hasThumb='false' thumbSrc='' hasBg='false' bgSrc='' bgScale='0' interval='5' useTransition='true' transType='Fade' transTime='2' firstImage='1' dispSequence='0'>
+		<Slide src='pic1.jpg' caption='' width='405' height='270' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='pic2.jpg' caption='' width='404' height='270' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='pic3.jpg' caption='' width='405' height='270' thumbWidth='80' thumbHeight='53'/>
+	</Album>
+</AlbumBook>
